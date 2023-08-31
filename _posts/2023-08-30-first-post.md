@@ -4,7 +4,7 @@ title: About Me
 subtitle: Introduction
 gh-repo: codyub/page
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [About Me]
 comments: true
 ---
 
@@ -13,9 +13,11 @@ comments: true
 **Hi, I’m Yubin-Jeong.** 
 **I graduated from Ewha Woman's University with three majors(Nutritional Science & Food Management(NSFM), Business Administration and Statistics), and I am trying to learn statistics more deeply.**
 
-My interests include:
-  • generative models
-  • Statistical Inference
+<br>
+My interests include:<br>
+ • generative models <br>
+ • Statistical Inference
+<br>
 
 ## Personal Story; why did I want to study statistics more?
 I had previously thought that I would go to a food company after graduating from graduate school with other people in my major(NSFM).
